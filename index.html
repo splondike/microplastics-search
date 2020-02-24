@@ -1,0 +1,209 @@
+<!doctype html>
+<html lang="en">
+<head>
+<title>Microplastics search</title>
+<meta charset="utf-8" />
+<script type="text/javascript">
+function extractWordlist(wordsStr) {
+    // Sort alphabetically to start off with
+    var words = wordsStr.toLowerCase().split("\n").sort();
+    var filteredWords = [];
+    for (var i=0;i<words.length;i++) {
+        if (!words[i].match(/^ *$/)) {
+            filteredWords.push(words[i]);
+        }
+    }
+    // This sort isn't stable, but that doesn't matter
+    return filteredWords.sort(function(a, b) {
+        return b.length - a.length;
+    });
+}
+
+function findWords(wordList, text) {
+    var offset = 0;
+    var rtn = [];
+    var lowerText = text.toLowerCase();
+    while (offset < text.length) {
+        var match = false;
+        var minStart = 0;
+        var len = 0;
+        for(var i=0;i<wordList.length;i++) {
+            var word = wordList[i];
+            var pos = lowerText.indexOf(word, offset);
+            if (pos != -1 && (!match || pos < minStart)) {
+                minStart = pos;
+                len = word.length;
+                match = true;
+            }
+        }
+
+        if (match) {
+            rtn.push([minStart, len]);
+            offset = minStart + len;
+        } else {
+            // No more matches, finish up
+            break;
+        }
+    }
+
+    return rtn;
+}
+
+function buildResultsNode(inputText, matches) {
+    var rtn = document.createDocumentFragment();
+    var offset = 0;
+    for (var i=0;i<matches.length;i++) {
+        var match = matches[i];
+        // Prefix
+        rtn.appendChild(
+            document.createTextNode(
+                inputText.slice(offset, match[0])
+            )
+        );
+
+        // Match
+        var end = match[0] + match[1];
+        var b = document.createElement("b");
+        b.appendChild(
+            document.createTextNode(
+                inputText.slice(match[0], match[0] + match[1])
+            )
+        );
+        rtn.appendChild(b);
+        offset = end;
+    }
+
+    // Suffix after last match
+    rtn.appendChild(
+        document.createTextNode(
+            inputText.slice(offset)
+        )
+    );
+
+    return rtn;
+}
+
+addEventListener("DOMContentLoaded", function() {
+    var oReq = new XMLHttpRequest();
+    function doRest() {
+        var wordsStr = oReq.responseText;
+        var wordList = extractWordlist(wordsStr);
+
+        var input = document.getElementById("input_text");
+        var button = document.getElementById("button");
+        var count = document.getElementById("count");
+        var output = document.getElementById("results");
+
+        function doSearch() {
+            var inputText = input.value;
+            if (inputText == "") {
+                output.innerHTML = "No results.";
+                count.innerHTML = "&nbsp;";
+            } else {
+                var matches = findWords(wordList, inputText);
+
+                output.innerHTML = "";
+                output.appendChild(buildResultsNode(inputText, matches));
+                if (matches.length == 1) {
+                    count.innerHTML = "Found 1 potential microplastic";
+                } else {
+                    count.innerHTML = "Found " + matches.length + " potential microplastics";
+                }
+            }
+        }
+
+        button.addEventListener("click", doSearch, false);
+        doSearch();
+    }
+
+    oReq.addEventListener("load", doRest);
+    oReq.open("GET", "data/plastics.txt");
+    oReq.send();
+}, false);
+
+/*
+One day when I was walking down the street I tripped on some Acrylamide. In fact it was Allyl Methacrylate Copolymer!
+*/
+</script>
+<style type="text/css">
+html {
+    background: #8c79a7;
+    padding: 0;
+    font-size: 16px;
+    height: 100%;
+    font-family: sans-serif;
+}
+body {
+    background: #fff;
+    margin: 20px auto;
+    max-width: 800px;
+    padding: 20px;
+    min-height: calc(100% - 80px);
+}
+h1 {
+    margin: 0 0 20px 0;
+    font-size: 2rem;
+}
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+a {
+    color: #573e79;
+}
+#input_text {
+    width: 100%;
+    height: 100px;
+    box-sizing: border-box;
+    padding: 10px;
+    margin: 0 0 5px 0;
+}
+#button {
+    background: #573e79;
+    color: #fff;
+    border-radius: 5px;
+    border: 0;
+    padding: 10px;
+    width: 100%;
+}
+#count {
+    margin-top: 20px;
+    margin-bottom: 5px;
+    color: #392850;
+    font-weight: bold;
+    font-size: 0.9rem;
+}
+#results {
+    border: 1px solid #573e79;
+    background: #ece5f7;
+    padding: 20px;
+}
+#icon {
+    font-family: serif;
+}
+#icon i:nth-child(1) {
+    color: #00ff00;
+}
+#icon i:nth-child(2) {
+    color: #e01818;
+}
+#icon i:nth-child(3) {
+    color: #0000ff;
+}
+#icon i:nth-child(4) {
+    color: #00ffff;
+}
+</style>
+</head>
+<body>
+    <h1><span id="icon"><i>.</i><i>:</i><i>.</i><i>.</i></span> Microplastics search</h1>
+    <p>This page lets you easily compare the list of ingredients in a product against the 'Beat the Bead' <a href="https://www.beatthemicrobead.org/wp-content/uploads/2019/07/Red-List_new_ECHA.pdf">list of problematic microplastics</a>.</p>
+    <label for="input_text">Ingredients list:</label>
+    <textarea id="input_text" placeholder="Paste list in here and press search"></textarea>
+    <button id="button">Search</button>
+    <p id="count">&nbsp;</p>
+    <div id="results">
+        &nbsp;
+    </div>
+</body>
+</html>

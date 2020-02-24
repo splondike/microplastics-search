@@ -1,0 +1,589 @@
+25 Dimethicone
+2 Methacrylate
+3 Methacrylate Crosspolymer
+Acetoacetoxyethyl Methacrylate Copolymer
+Acetophenone
+Acetylenediurea
+Acrolein
+Acrolein Copolymer
+Acrylamide
+Acrylamide Copolymer
+Acrylamides
+Acrylamidomethyl Propane Sulfonic Acid Copolymer
+Acrylamidopropyltrimonium Chloride
+Acrylates
+Acrylate Copolymer
+Acrylates Copolymer
+Acrylates Crosspolymer
+Acrylates Crosspolymer-3
+Acrylates Crosspolymer-4
+Acrylic Acid
+Acrylic Acid Copolymer
+Acrylonitrile
+Acrylonitrile Copolymer
+Acrylonitrogens Copolymer
+Acryloyldimethyltaurate
+Acryloyl Dimethyl Taurate
+Allyl Methacrylate
+Allyl Methacrylate Copolymer
+Allyl Methacrylates Crosspolymer
+Allyl Stearate
+Aminoacrylates
+Aminoethylacrylate Phosphate
+Aminoethylpropanediol-Acrylates
+Aminoethylpropanediol-Ampd-Acrylates
+Ammonium Acrylate Copolymer
+Ammonium Acrylates
+Ammonium Acrylates Copolymer
+Ammonium Acryloyldimethyltaurate
+Ammonium Acryloyl Dimethyltaurate
+Ammonium Methacrylate Copolymer
+Ammonium Polyacrylate
+Ammonium Styrene
+Ammonium VA
+AMP-Acrylate
+AMP-Acrylates
+AMP-Acrylates Copolymer
+AMPD-Acrylates
+Beheneth-25 Methacrylate
+Beheneth-25 Methacrylate Copolymer
+Beheneth-25 Methacrylate Crosspolymer
+Behenyl Acrylate
+Behenyl Dimethicone
+Behenyl Dimethicone Crosspolymer
+Behenyl Methacrylate
+Bis-Hydroxyethyl Acrylate Polyneopentyl Glycol Adipate
+Bis-Hydroxyethyl Acrylate Poly
+Bis-Hydroxypropyl Dimethicone Acrylate Copolymer
+Bis-Hydroxypropyl Dimethicone Crosspolymer
+Bis-Hydroxypropylmethacrylate Poly(1,4-Butanediol)-9
+Bis-Pentaerythrityl Diacrylate
+Bis-Vinyldimethicone Crosspolymer
+Bis-Vinyl Diphenyl Dimethicone
+Butadiene
+Butadiene Copolymer
+Butene
+Butyl Acrylate
+Butyl Acrylate Copolymer
+Butylaminoethyl Methacrylate Copolymer
+Butylaminoethyl Methacrylate Crosspolymer
+Butyl Benzoic Acid
+Butyl Benzyl Phthalate
+Butyl Dimethicone Acrylate
+Butyldimethicone Methacrylate
+Butyl Dimethicone Methacrylate Copolymer
+Butyl Dimethicone Propyl Methacrylate Copolymer
+Butylene
+Butyl Ester Of Ethylene
+Butyl Ester Of PVM
+Butyl Maleate
+Butyl Methacrylate
+Butyl Polydimethylsiloxyl Ethylene
+C10-30 Alkyl Acrylate Crosspolymer
+C10-30 Alkyl Methacrylate Copolymer
+C10-30 Alkyl PEG-20 Itaconate Copolymer
+C1-18 Alkyl Acrylate
+C1-18 Alkyl Acrylates
+C12-13 Alkyl Methacrylates
+C12-22 Alkyl Acrylate
+C12-22 Alkyl Acrylate Copolymer
+C12-22 Alkyl Methacrylate Copolymer
+C1-2 Succinates
+C18-22 Alkyl PEG-25 Methacrylate
+C1-8 Alkyl Acrylamide
+C1-8 Alkyl Acrylamide Copolymer
+C20-24 Olefin
+C26-28 Alkyldimethylsilyl Polypropylsilsesquioxane
+C26-29 Olefin Copolymer
+C30-38 Olefin
+C4-6 Olefin
+C5-8 Alkyl Acrylate Copolymer
+C6-14 Perfluoroalkylethyl Acrylate
+C8-22 Alkyl Acrylate
+C8-22 Alkyl Acrylates
+Calcium Acrylate Copolymer
+Carbamate Copolymer
+Carbomer
+Carboxyethyl Acrylate Crosspolymer
+Ceteareth-20 Methacrylate Crosspolymer
+Ceteareth-25 Methacrylate
+Cetearyl Dimethicone
+Ceteth-20 Itaconate Copolymer
+Ceteth-20 Methacrylate Copolymer
+Cetyl Dimethicone
+Cetyl Hexacosyl Dimethicone
+Corn Starch
+Crotonates
+Crotonates Copolymer
+Crotonic Acid
+Cyclohexylmethacrylate
+Cyclohexyl Methacrylate
+Cyclohexyl Methacrylate Copolymer
+Dea-Styrene
+Diacetone Acrylamide
+Diacetoneacrylamide Copolymer
+Dicyclopentadiene
+Diethylaminoethyl Methacrylate
+Diethylaminoethyl Methacrylate Copolymer
+Diisobutylene Copolymer
+Dimer Tallate Copolymer Bis-Hydrogenated Tallow Amide
+Dimethicone
+Dimethicone Acrylate Crosspolymer
+Dimethicone Copolymer
+Dimethicone Crosspolymer
+Dimethicone Methacrylate
+Dimethicone Methacrylate Copolymer
+Dimethiconol Acrylate Copolymer
+Dimethiconol Crosspolymer
+Dimethylacrylamide
+Dimethyl Acrylamide
+Dimethylacrylamide Crosspolymer
+Dimethylaminoethylmethacrylate
+Dimethylaminoethyl Methacrylate
+Dimethylaminoethylmethacrylate Copolymer
+Dimethylaminoethyl Methacrylate Copolymer
+Diphenyl Amodimethicone Copolymer
+Divinylbenzene Copolymer
+Divinyldimethicone
+DMAPA Acrylates
+DMAPA Acrylates Copolymer
+DVB Copolymer
+DVP
+Ethalkonium Chloride Acrylate
+Ethalkonium Chloride Acrylate Copolymer
+Ethylamine Oxide Methacrylate Copolymer
+Ethylene
+Ethylene Copolymer
+Ethylenediamine
+Ethylene Vinyl Alcohol Copolymer
+Ethylhexylacrylamide Copolymer
+Ethylhexyl Acrylate
+Ethylhexyl Acrylate Copolymer
+Ethylhexyl Acrylate Crosspolymer
+Ethylhexyl Methacrylate Copolymer
+Ethylidene Norbornene
+Ethyltrimonium Chloride Acrylate
+Ethyltrimonium Chloride Methacrylate
+Ethyltrimonium Chloride Methacrylate Copolymer
+EVOH
+Fibroin
+Formaldehyde
+Glyceryl Acrylate
+Glycerylamidoethyl Methacrylate
+Glyceryl Polyacrylate
+Glyceryl Polymethacrylate
+Glycidyl Methacrylate Crosspolymer
+Glycol Dimethacryate Crosspolymer
+Glycol Dimethacrylate
+Glycol Dimethacrylate Copolymer
+Glycol Dimethacrylate Crosspolymer
+Hema
+Hema Copolymer
+Hexafluoropropylene
+Hydrogenated Butadiene
+Hydrogenated Butylene
+Hydrogenated Dicyclopentadiene
+Hydrogenated Dimer Dilinoleate Copolymer Bis-Di-C1418 Alkyl Amide
+Hydrogenated Ethylene
+Hydrogenated Polyisopentene Copolymer
+Hydrogenated Styrene
+Hydrolyzed Ethylene
+Hydrolyzed VA
+Hydroxyacrylates Copolymer
+Hydroxyesters Acrylates Copolymer
+Hydroxyethyl
+Hydroxyethyl Acrylamide Copolymer
+Hydroxyethyl Acrylate
+Hydroxyethylacrylate Copolymer
+Hydroxyethylcellulose
+Hydroxyethyl Methacrylate Copolymer
+Hydroxypropyl Acrylate Copolymer
+Hydroxypropyl Dimethicone Acrylate Copolymer
+Hydroxypropyl Dimethiconylpropyl Acrylates Copolymer
+Indene Copolymer
+Ipdi Copolymer
+Isobornyl Acrylate Copolymer
+Isobornyl Methacrylate
+Isobutyl Acrylate
+Isobutylene
+Isobutyl Maleate
+Isobutylmethacrylate
+Isobutyl Methacrylate
+Isobutyl Methacrylate Copolymer
+Isopentene
+Isoprene
+Isoprene Copolymer
+Isopropylacrylamide
+Isopropylidenediphenyl Bisoxyhydroxypropyl Methacrylate
+Isopropyl Maleate
+Laureth-25 Methacrylate Copolymer
+Laureth-7 Methacrylate Copolymer
+Lauryl
+Lauryl Acrylate
+Lauryl Acrylate Copolymer
+Lauryl Acrylate Crosspolymer
+Lauryl Dimethicone Crosspolymer
+Lauryl Methacrylate
+Lauryl Methacrylate Copolymer
+Lauryl Methacrylate Crosspolymer
+Lauryl Polydimethylsiloxyethyl Dimethicone
+LPDI
+MA Copolymer
+MA Copolyol
+Magnesium Acrylate Copolymer
+Maleated Hexene
+Maleic Anhydride
+Melamine
+Mercaptopropyl Dimethicone Copolymer
+Methacrylamide
+Methacrylamide Copolymer
+Methacrylamide Crosspolymer
+Methacrylate Copolymer
+Methacrylic Acid
+Methacrylic Acid Crosspolymer
+Methacrylonitrile
+Methacryloyl Ethyl Betaine
+Methicone Silsesquioxane Crosspolymer
+Methoxyethyl Acrylate
+Methoxyethyl Acrylate Copolymer
+Methoxyethyl Acrylate Crosspolymer
+Methoxy PEG-15 Methacrylate Copolymer
+Methoxy PEG-23 Methacrylate
+Methoxy PEG-23 Methacrylate Copolymer
+Methoxy PEG-4 Methacrylate Copolymer
+Methoxy PEG Methacrylate Copolymer
+Methyl Acrylate
+Methylacrylate Copolymer
+Methylbutene
+Methylene Drometrizole Methacrylate Copolymer
+Methyl Methacrylate
+Methyl Methacrylate Copolymer
+Methyl Methacrylate Crosspolymer
+Methyl Methacrylate Crosspolymer-2
+Methylstyrene
+Methyl Styrene
+Methylstyrene Copolymer
+Nylon
+Nylon-11
+Nylon 12
+Nylon-12
+Nylon-12 Fluorescent Brightener 230 Salt
+Nylon 6
+Nylon-6
+Octene Copolymer
+Octylacrylamide
+Octylacrylamide Copolymer
+Oleyl Alcohol Copolymer
+Oxidized Polyethylene
+Oxidized Polypropylene
+Oxymethylene Copolymer
+Palmeth-25 Acrylate Copolymer
+Palmeth-25 Itaconate Copolymer
+Palmitate Laminated Powder
+PEG
+PEG-10 Dimaleate Copolymer
+PEG-10 Maleate
+PEG-16
+PEG-18 Dimethacrylate Crosspolymer
+PEG-4 Dimethacrylate Crosspolymer
+PEG-6 Methacrylate
+PEG-800
+PEG-8 Diacrylate Crosspolymer
+PEG- Methacrylate Crosspolymer
+Pegoterate
+Perfluorohexylethyl Methacrylate Crosspolymer
+Perfluorooctyl Ethyl Acrylate Copolymer
+Perfluorooctylethyl Methacrylate Copolymer
+Phenol
+Phloroglucinol Crosspolymer
+Phosphorylcholine Glycol Acrylate Copolymer
+Phosphorylcholine Glycol Acrylate Crosspolymer
+Phthalic Anhydride
+Piperylene Copolymer
+Polyacrylamide
+Polyacrylate
+Polyacrylate-1
+Polyacrylate-10
+Polyacrylate-11
+Polyacrylate-12
+Polyacrylate-13
+Polyacrylate-14
+Polyacrylate-15
+Polyacrylate-16
+Polyacrylate-17
+Polyacrylate-18
+Polyacrylate-19
+Polyacrylate-1 Crosspolymer
+Polyacrylate-2
+Polyacrylate-21
+Polyacrylate-22
+Polyacrylate-24
+Polyacrylate-25
+Polyacrylate-26
+Polyacrylate-27
+Polyacrylate-28
+Polyacrylate-29
+Polyacrylate-2 Crosspolymer
+Polyacrylate-3
+Polyacrylate-30
+Polyacrylate-31
+Polyacrylate-32
+Polyacrylate-33
+Polyacrylate-4
+Polyacrylate-5
+Polyacrylate-6
+Polyacrylate-7
+Polyacrylate-8
+Polyacrylate-9
+Polyacrylate Crosspolymer-11
+Polyacrylate Crosspolymer-3
+Polyacrylate Crosspolymer-4
+Polyacrylate Crosspolymer-5
+Polyacrylate Crosspolymer-6
+Polyacrylate Crosspolymer-7
+Polyacrylate Crosspolymer-8
+Polyacrylonitrile
+Polyamide-1
+Polybutene
+Polybutyl Acrylate
+Polybutylene Terephthalate
+Polybutyl Methacrylate
+Poly C10-30 Alkyl Acrylate
+Polychlorotrifluoroethylene
+Polydimethylaminoethyl Methacrylate
+Polydimethylsiloxane
+Poly (E-Caprolactone)
+Polyester-1
+Polyethyl Acrylate
+Polyethylene
+Polyethylene Isoterephthalate
+Polyethylene Naphthalate
+Polyethylene Terephthalate
+Polyethylene Terephthalate Laminated Powder
+Polyethylhexyl Acrylate
+Polyethylhexyl Methacrylate
+Polyethylmethacrylate
+Polyhydroxyethylmethacrylate
+Polyimide-1
+Polyisobornyl Acrylate
+Polyisobutene
+Polyisobutylene
+Polyisobutyl Methacrylate
+Polylactic Acid
+Polymethoxy PEG-9 Methacrylate
+Polymethyl Acrylate
+Polymethyl Methacrylate
+Polymethylsilsesquioxane
+Polyoxymethylene Melamine Acrylates
+Polypentaerythrityl Terephthalate
+Polypentaerythrityl Terephthalate Laminated Powder
+Poly-P-Phenylene Terephthalamide
+Polypropyl Acrylate
+Polypropylene
+Polypropylene Oxide
+Polypropylene Terephthalate
+Polypropylene Terephthalte
+Polypropyl Methacrylate
+Polyquaternium-6
+Polyquaternium-7
+Polysilicone-11
+Polystearyl Methacrylate
+Polystyrene
+Polystyrene Ethyl Methacrylate Copolymer
+Polytetrafluoroethylene
+Polytetrafluoroethylene Acetoxypropyl Betaine
+Polytrimethylsiloxymethacrylate Copolymer
+Polytrimethyl Siloxymethacrylate Copolymer
+Polytrimethylsiloxysilicate
+Silicone Resin
+Polyurethane
+Polyurethane-1
+Polyurethane-10
+Polyurethane-11
+Polyurethane-12
+Polyurethane-13
+Polyurethane-14
+Polyurethane-15
+Polyurethane-16
+Polyurethane-17
+Polyurethane-2
+Polyurethane-20
+Polyurethane-21
+Polyurethane-23
+Polyurethane-24
+Polyurethane-25
+Polyurethane-26
+Polyurethane-27
+Polyurethane-28
+Polyurethane-29
+Polyurethane-32
+Polyurethane-33
+Polyurethane-34
+Polyurethane-35
+Polyurethane-36
+Polyurethane-39
+Polyurethane-4
+Polyurethane-40
+Polyurethane-41
+Polyurethane-42
+Polyurethane-43
+Polyurethane-44
+Polyurethane-45
+Polyurethane-46
+Polyurethane-47
+Polyurethane-5
+Polyurethane-51
+Polyurethane-52
+Polyurethane-53
+Polyurethane-6
+Polyurethane-7
+Polyurethane-8
+Polyurethane-9
+Polyurethane Crosspolymer-2
+Polyvidone
+Polyvinylacetal Diethylaminoacetate
+Polyvinylacetamide
+Polyvinyl Acetate
+Polyvinyl Alcohol
+Polyvinyl Alcohol Copolymer
+Polyvinylalcohol Crosspolymer
+Polyvinyl Butyral
+Polyvinylcaprolactam
+Polyvinyl Chloride
+Polyvinylformamide
+Polyvinylidene Chloride
+Polyvinylidene Difluoride
+Polyvinyl Imidazolinium Acetate
+Polyvinyl Isobutyl Ether
+Polyvinyl Laurate
+Polyvinyl Methyl Ether
+Polyvinylpyrrolidon
+Polyvinyl Stearyl Ether
+Potassium Acrylate Copolymer
+Potassium Acrylates
+Potassium Acrylates Copolymer
+Potassium Aluminum Polyacrylate
+Potassium Polyacrylate
+Povidone
+PPG
+PPG-15 Glyceryl Ether Copolymer
+PPG-25
+PPG-4
+PPG-5
+Propylene
+Propylene Copolymer
+Propyl Trimethicone Methacrylate Copolymer
+Propyl Trimethicone Methacrylate Crosspolymer
+PVP
+Rhus Verniciflua Sap Extract Crosspolymer
+Sodium Acrylamidomethylpropane Sulfonate Copolymer
+Sodium Acrylate
+Sodium Acrylate Copolymer
+Sodium Acrylates
+Sodium Acrylates Copolymer
+Sodium Acrylates Crosspolymer
+Sodium Acrylates Crosspolymer-2
+Sodium Acryloyldimethyltaurate
+Sodium Acryloyldimethyl Taurate
+Sodium Acryloyl Dimethyl Taurate
+Sodium Acryloyldimethyltaurate Copolymer
+Sodium Acryloyldimethyl Taurate Copolymer
+Sodium DVB
+Sodium Laneth-40 Maleate
+Sodium MA
+Sodium Maleate Copolymer
+Sodium Methacrylate
+Sodium Methacrylate Crosspolymer
+Sodium Methoxy PEG-16 Maleate
+Sodium Polyacrylate
+Sodium Polyacrylate Starch
+Sodium Polymethacrylate
+Sodium Polystyrene Sulfonate
+Sodium Styrene
+Sodium Sulfoisophthalate
+Sodium Tauride Acrylates
+Starch
+Stearate
+Steareth-10 Allyl Ether
+Steareth-20 Itaconate Copolymer
+Steareth-20 Methacrylate Copolymer
+Steareth-20 Methacrylate Crosspolymer
+Steareth-25 Methacrylate Crosspolymer
+Steareth-30 Methacrylate Copolymer
+Steareth-50 Acrylate Copolymer
+Steareth-8 Methacrylate Copolymer
+Stearyl
+Stearyl Acrylate
+Stearyl Acrylate Copolymer
+Stearyl Dimer Dilinoleate Copolymer
+Stearyl Dimer Tallate Copolymer
+Stearyl Methacrylate
+Stearyl Methacrylate Copolymer
+Stearyl Methacrylate Crosspolymer
+Stearylvinyl Ether
+Styrene
+Styrene Copolymer
+Styrene Sulfonate Copolymer
+Sucrose Acetate Isobutyrate
+Sucrose Benzoate
+Synonym with Polyacrylate
+Synonym with Polydimethylsiloxane
+Synonym with Polyisobutylen
+Synonym with Polyvinylpyrrolid
+TAUW
+TAUW;
+T-Butylacrylamide Copolymer
+T-Butyl Methacrylate Copolymer
+TDI
+Tdi Copolymer
+TEA-Acrylates
+Terephthalate Copolymer
+Tetrafluoroethylene Copolymer
+TIPA-Acrylates
+TMDI Copolymer
+Tosylamide Crosspolymer
+Tridecyl Acrylate
+Tridecyl Methacrylate Crosspolymer
+Triethoxysilylpropyl Methacrylate
+Trifluoroethylmethacrylate
+Trifluoropropylmethacrylate
+Trimethoxysilylpropyl Methacrylate Crosspolymer
+Trimethylolethane Copolymer
+Trimethylolpropane Copolymer
+Trimethylsiloxysilicate
+Trimethylsiloxysilicate Stearyl Dimethicone Crosspolymer
+Tris(Trimethylsiloxy)Silylpropyl Methacrylate Copolymer
+Trimethylsiloxy Silylpropyl Methacrylate Copolymer
+Tromethamine Acrylates
+VA
+VA copolymer
+VA Copolymer
+VA Crosspolymer
+Vinylacetamide Copolymer
+Vinylacetamide Crosspolymer
+Vinyl Acetoacetate Copolymer
+Vinyl Alcohol Copolymer
+Vinyl Alcohol Crosspolymer
+Vinylamine
+Vinyl Butyl Benzoate
+Vinyl C8-12 Isoalkyl Esters
+Vinyl Caprolactam
+Vinyl Chloride
+Vinyl Chloride Copolymer
+Vinyl Dimethicone
+Vinyl Dimethicone Crosspolymer
+Vinyldimethyl
+Vinyl Dimethyl
+Vinyl Formamide Copolymer
+Vinylidene Chloride Copolymer
+Vinyl Imidazole Copolymer
+Vinyl Isodecanoate Crosspolymer
+Vinyl Laurate Copolymer
+Vinyl Neodecanoate Copolymer
+Vinyl Neodecanoate Crosspolymer
+Vinylnorbornene Copolymer
+Vinyl Propionate Copolymer
+Vinyltoluene Copolymer
+VP
+VP Copolymer
+Zinc Acrylate Copolymer

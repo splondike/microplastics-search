@@ -1,0 +1,4 @@
+data/*
+!data/plastics.txt
+!data/generate-csv.sh
+!data/extract-csv.py
